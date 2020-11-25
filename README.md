@@ -24,7 +24,7 @@
 The author of this project is not responsible for any possible harm caused by the materials of this project.***
 
 # Bilgisayar
-1 - Orijinal Windows sürümleri ile bilgisayarınıza format atılır
+1 - Orijinal ve güncel Windows sürümleri ile bilgisayarınıza format atılır.
    * Windows 7:
      ```
      Windows 7 Starter (32-Bit)
@@ -34,10 +34,10 @@ The author of this project is not responsible for any possible harm caused by th
      Windows 7 Ultimate (32-Bit, 64-Bit)
      ```
    * Windows 10:
-   ```
-   Windows 10 Home (32-Bit, 64-Bit)
-   Windows 10 Pro (32-Bit, 64-Bit)
-   ```
+     ```
+     Windows 10 Home (32-Bit, 64-Bit)
+     Windows 10 Pro (32-Bit, 64-Bit)
+     ```
 
 # Telefon
 
