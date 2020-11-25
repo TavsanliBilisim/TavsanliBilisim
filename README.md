@@ -5,11 +5,11 @@
 <p align="center"><a href="center"><a href="https://t.me/TheDarkRoot"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Telegram.png" width="30"></a>     <a href="center"><a href="https://instagram.com/TheDarkRoot"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Instagram.png" width="30"></a>     <a href="center"><a href="https://twitter.com/TDarkRoot"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Twitter.png" width="30"></a>     <a href="https://github.com/TavsanliBilisim/TavsanliBilisim/Readme.md"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Github.png" width="30"></a></p>
 </p>
 <hr>
-<p align="center"><a href="#Description">Description</a> &bull; <a href="#Information">Information</a> &bull; <a href="#Features">Features</a> &bull; <a href="#Installation">Installation</a> &bull; <a href="#Screenshot">Screenshot</a> &bull; <a href="#License">License</a></p>
+<p align="center"><a href="#İletişim">İletişim</a> &bull; <a href="#Information">Information</a> &bull; <a href="#Features">Features</a> &bull; <a href="#Installation">Installation</a> &bull; <a href="#Screenshot">Screenshot</a> &bull; <a href="#Hakkımızda">Hakkımızda</a></p>
 <hr>
 
 
-# Description
+# İletişim
 
 - ***Home Ofis(🎭)***
 - Bizimle iletişim kurun: **[@Atilla](https://t.me/LeeJunFan43) [@Oguzhan](https://t.me/Ghost_Man4307)**
@@ -64,7 +64,7 @@ $ chmod +x *
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Hack%20Screen.gif" width=275>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Hack%20Screen.gif)
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Cyber%20Map.gif" width=275>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Cyber%20Map.gif)
 
-# License
+# Hakkımızda
 
 Full license text can be found [here](./Document.go)
 ```
