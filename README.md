@@ -23,8 +23,24 @@
 > ***Warning: This project is created only for educational purposes and cannot be used for law violation or personal gain.
 The author of this project is not responsible for any possible harm caused by the materials of this project.***
 
-# Information
+# Bilgisayar
+1 - Orijinal Windows sürümleri ile bilgisayarınıza format atılır
+   * Windows 7:
+     ```swift
+     Windows 7 Starter (32-Bit)
+     Windows 7 Home Basic (32-Bit, 64-Bit)
+     Windows 7 Home Premium (32-Bit, 64-Bit)
+     Windows 7 Professional (32-Bit, 64-Bit)
+     Windows 7 Ultimate (32-Bit, 64-Bit)
+     ```
 
+# Telefon
+
+# Elektronik Ürün
+
+# Windows
+
+# Windows
 
 # Features
 
