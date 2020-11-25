@@ -12,7 +12,7 @@
 # Description
 
 - ***Home Ofis(🎭)***
-- Bizimle iletişim kurun:: **[@Atilla](https://t.me/LeeJunFan43) [@Oguzhan](https://t.me/Ghost_Man4307)
+- Bizimle iletişim kurun: **[@Atilla](https://t.me/LeeJunFan43) [@Oguzhan](https://t.me/Ghost_Man4307)**
 - Resmi sosyal medya hesaplarımız: [@Telegram](https://t.me/TavsanliBilisim) &bull; [@Instagram](https://instagram.com/TavsanliBilisim) &bull; [@Twitter](https://twitter.com/TavsanliBilisim) &bull; [@Github](https://github.com/TavsanliBilisim)
 ----------
 - Hello World.
