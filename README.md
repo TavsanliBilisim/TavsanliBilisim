@@ -60,17 +60,17 @@ The author of this project is not responsible for any possible harm caused by th
 3 - ***Oyun ve Programlar***
    * Programlar: Bütün programlarımız reklamsız lisanslı ve profesyonel yazılımlardır.
      ```
-     1 -) Sürücü yükleme ve güncelleme programları.
-     Sıkıştırma ve çıkartma programları.
-     Pdf okuma programları.
-     Format dönüştürme programları.
-     Müzik ve video indirme programları.
-     Müzik ve video oynatıcı programları.
-     Photoshop programları.
-     Torrent indirme ve yükleme programalrı.
-     Antivirüs ve USB koruma programları.
-     Bilgisayar temizleme ve hızlandırma progrmaları.
-     Sanal makina programları.
+     01 -) Sürücü yükleme ve güncelleme programları.
+     02 -) Sıkıştırma ve çıkartma programları.
+     03 -) Pdf okuma programları.
+     04 -) Format dönüştürme programları.
+     05 -) Müzik ve video indirme programları.
+     06 -) Müzik ve video oynatıcı programları.
+     07 -) Photoshop programları.
+     08 -) Torrent indirme ve yükleme programalrı.
+     09 -) Antivirüs ve USB koruma programları.
+     10 -) Bilgisayar temizleme ve hızlandırma progrmaları.
+     11 -) Sanal makina programları.
      ```
 
 
@@ -78,11 +78,11 @@ The author of this project is not responsible for any possible harm caused by th
 1 - ***Format:***
    * Android:
      ```
-     1 -) Format atma
-     2 -) Hard format atma
-     3 -) Yazılım sıfırlama
-     4 -) Yazılım yükleme
-     5 -) Root & Recovery yükleme
+     01 -) Format atma
+     02 -) Hard format atma
+     03 -) Yazılım sıfırlama
+     04 -) Yazılım yükleme
+     05 -) Root & Recovery yükleme
      ```
 
 # Features
