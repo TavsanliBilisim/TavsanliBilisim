@@ -86,9 +86,9 @@ The author of this project is not responsible for any possible harm caused by th
 ```
 ```
 ***7 - Silinen Verileri Kurtarma:***
-```
-```
-
+   ```
+   Bilgisayar, HDD, SSD ve USB belleğimizden silinen önemli resim, belge, video ve dökümanlarınızı geri getiriyoruz.
+   ```
 # Telefon ve Tablet
 ***1 - Format:***
    * Android:
@@ -105,7 +105,8 @@ The author of this project is not responsible for any possible harm caused by th
    Sizin için cihazınıza ait kişisel mail adresi oluşturma, yedekleme ve kişisel ayarlarını size uygun şekilde ayarlıyoruz.
    ```
 ***3 - Sosyal Medya ve Hesap Güvenliği:***
-   * Hesap Güvenliği: Sosyal medya ve hesaplarınız için güvenlik arttırma, güçlü parola oluşturma. (Hacklenmeme garantisi.)
+   > Hacklenmeme garantisi.
+   * Hesap Güvenliği: Sosyal medya ve hesaplarınız için güvenlik arttırma, güçlü parola oluşturma.
    ```
    01 -) Gmail
    02 -) Hotmail
@@ -121,13 +122,22 @@ The author of this project is not responsible for any possible harm caused by th
    ```
 ***4 - Silinen Verileri Kurtarma:***
    ```
+   Cihazınızdan silinen önemli resim, belge, video ve dökümanlarınızı geri getiriyoruz.
    ```
-***5 - Rehber, Resim, Video ve Dosya Yedekleme:***
-```
-```
+***5 - Yedekleme:***
+   > Cihazınız paramparça olsa dahi hiç bir verinizi kaybetmeyin.
+   ```
+   WhatsApp'ınız, rehberiniz, resimleriniz, videolarınız ve önemli diğer bütün dosyarınız için yedekleme sistemi kuruyoruz.
+   ```
 ***6 - Oyunlar ve Programlar:***
-```
-```
+   * Programlar:
+   ```
+   
+   ```
+   * Oyunlar:
+   ```
+   
+   ```
 
 # Features
 
