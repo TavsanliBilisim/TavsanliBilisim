@@ -5,7 +5,7 @@
 <p align="center"><a href="center"><a href="https://t.me/TavsanliBilisim"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Telegram.png" width="30"></a>     <a href="center"><a href="https://instagram.com/TavsanliBilisim"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Instagram.png" width="30"></a>     <a href="center"><a href="https://github.com/TavsanliBilisim"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Github.png" width="30"></a></p>
 </p>
 <hr>
-<p align="center"><a href="#İletişim">İletişim</a> &bull; <a href="#Bilgisayar">Bilgisayar</a> &bull; <a href="#Features">Features</a> &bull; <a href="#Installation">Installation</a> &bull; <a href="#Screenshot">Screenshot</a> &bull; <a href="#Hakkımızda">Hakkımızda</a></p>
+<p align="center"><a href="#İletişim">İletişim</a> &bull; <a href="#Bilgisayar">Bilgisayar</a> &bull; <a href="#Telefon">Telefon</a> &bull; <a href="#Installation">Installation</a> &bull; <a href="#Screenshot">Screenshot</a> &bull; <a href="#Hakkımızda">Hakkımızda</a></p>
 <hr>
 
 
@@ -42,23 +42,23 @@ The author of this project is not responsible for any possible harm caused by th
      ```
 2 - ***Ofis programları:***
     Bilgisayarınızda olmayan, eksik olan veya lisans hatası veren ofis programları hatasız ve lisanslı bir şekilde kurulur.
-   * Microsoft Ofis
-   ```
-   Microsoft Word (32-Bit, 64-Bit)
-   Microsoft PowerPoint (32-Bit, 64-Bit)
-   Microsoft Excel (32-Bit, 64-Bit)
-   Microsoft Outlook (32-Bit, 64-Bit)
-   Microsoft OneNote (32-Bit, 64-Bit)
-   Microsoft Access (32-Bit, 64-Bit)
-   Microsoft Publisher (32-Bit, 64-Bit)
-   Microsoft OneDrive (32-Bit, 64-Bit)
-   Microsoft OneDrive İş (32-Bit, 64-Bit)
-   Microsoft Project (32-Bit, 64-Bit)
-   Microsoft Visio (32-Bit, 64-Bit)
-   Skype Kurumsal (32-Bit, 64-Bit)
-   ```
+   * Microsoft Ofis:
+     ```
+     Microsoft Word (32-Bit, 64-Bit)
+     Microsoft PowerPoint (32-Bit, 64-Bit)
+     Microsoft Excel (32-Bit, 64-Bit)
+     Microsoft Outlook (32-Bit, 64-Bit)
+     Microsoft OneNote (32-Bit, 64-Bit)
+     Microsoft Access (32-Bit, 64-Bit)
+     Microsoft Publisher (32-Bit, 64-Bit)
+     Microsoft OneDrive (32-Bit, 64-Bit)
+     Microsoft OneDrive İş (32-Bit, 64-Bit)
+     Microsoft Project (32-Bit, 64-Bit)
+     Microsoft Visio (32-Bit, 64-Bit)
+     Skype Kurumsal (32-Bit, 64-Bit)
+     ```
 
-#Telefon
+# Telefon
 1 - ***Android:***
         ```
         1 -) Format atma
