@@ -72,6 +72,7 @@ The author of this project is not responsible for any possible harm caused by th
      10 -) Bilgisayar temizleme ve hızlandırma progrmaları.
      11 -) Sanal makina programları.
      ```
+   * Oyunlar: ```İstediğiniz bilgisayar oyunu için bizimle iletişim kurun. Oyunlar orijinal ve lisanslı şekilde kurulur.```
 
 
 # Telefon
