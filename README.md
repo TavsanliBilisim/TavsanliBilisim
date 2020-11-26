@@ -105,8 +105,8 @@ The author of this project is not responsible for any possible harm caused by th
    Sizin için cihazınıza ait kişisel mail adresi oluşturma, yedekleme ve kişisel ayarlarını size uygun şekilde ayarlıyoruz.
    ```
 ***3 - Sosyal Medya ve Hesap Güvenliği:***
-   > Hacklenmeme garantisi.
-   * Hesap Güvenliği: Sosyal medya ve hesaplarınız için güvenlik arttırma, güçlü parola oluşturma.
+   
+   * Hesap Güvenliği: Sosyal medya ve hesaplarınız için güvenlik arttırma, güçlü parola oluşturma. > Hacklenmeme garantisi.
    ```
    01 -) Gmail
    02 -) Hotmail
