@@ -58,6 +58,16 @@ The author of this project is not responsible for any possible harm caused by th
    Skype Kurumsal (32-Bit, 64-Bit)
    ```
 
+#Telefon
+1 - ***Android:***
+        ```
+        1 -) Format atma
+        2 -) Hard format atma
+        3 -) Yazılım sıfırlama
+        4 -) Yazılım yükleme
+        5 -) Root & Recovery yükleme
+        ```
+
 # Features
 
 - [x] Development document.
