@@ -24,69 +24,69 @@
 The author of this project is not responsible for any possible harm caused by the materials of this project.***
 
 # Bilgisayar
-1 - ***Format:***
+***1 - Format:***
     Orijinal ve güncel Windows sürümleri ile bilgisayarınıza format atılır.
     Lisanslı ofis programları en güncel sürücüler profesyonel sürücü yazılımları ile yüklenir ve teslim edilir.
    * Windows 7:
-     ```
-     Windows 7 Starter (32-Bit)
-     Windows 7 Home Basic (32-Bit, 64-Bit)
-     Windows 7 Home Premium (32-Bit, 64-Bit)
-     Windows 7 Professional (32-Bit, 64-Bit)
-     Windows 7 Ultimate (32-Bit, 64-Bit)
-     ```
+   ```
+   Windows 7 Starter (32-Bit)
+   Windows 7 Home Basic (32-Bit, 64-Bit)
+   Windows 7 Home Premium (32-Bit, 64-Bit)
+   Windows 7 Professional (32-Bit, 64-Bit)
+   Windows 7 Ultimate (32-Bit, 64-Bit)
+   ```
    * Windows 10:
-     ```
-     Windows 10 Home (32-Bit, 64-Bit)
-     Windows 10 Pro (32-Bit, 64-Bit)
-     ```
-2 - ***Ofis programları:***
+   ```
+   Windows 10 Home (32-Bit, 64-Bit)
+   Windows 10 Pro (32-Bit, 64-Bit)
+   ```
+***2 - Ofis programları:***
     Bilgisayarınızda olmayan, eksik olan veya lisans hatası veren ofis programları hatasız ve lisanslı bir şekilde kurulur.
    * Microsoft Ofis:
-     ```
-     Microsoft Word (32-Bit, 64-Bit)
-     Microsoft PowerPoint (32-Bit, 64-Bit)
-     Microsoft Excel (32-Bit, 64-Bit)
-     Microsoft Outlook (32-Bit, 64-Bit)
-     Microsoft OneNote (32-Bit, 64-Bit)
-     Microsoft Access (32-Bit, 64-Bit)
-     Microsoft Publisher (32-Bit, 64-Bit)
-     Microsoft OneDrive (32-Bit, 64-Bit)
-     Microsoft OneDrive İş (32-Bit, 64-Bit)
-     Microsoft Project (32-Bit, 64-Bit)
-     Microsoft Visio (32-Bit, 64-Bit)
-     Skype Kurumsal (32-Bit, 64-Bit)
-     ```
-3 - ***Oyun ve Programlar***
+   ```
+   Microsoft Word (32-Bit, 64-Bit)
+   Microsoft PowerPoint (32-Bit, 64-Bit)
+   Microsoft Excel (32-Bit, 64-Bit)
+   Microsoft Outlook (32-Bit, 64-Bit)
+   Microsoft OneNote (32-Bit, 64-Bit)
+   Microsoft Access (32-Bit, 64-Bit)
+   Microsoft Publisher (32-Bit, 64-Bit)
+   Microsoft OneDrive (32-Bit, 64-Bit)
+   Microsoft OneDrive İş (32-Bit, 64-Bit)
+   Microsoft Project (32-Bit, 64-Bit)
+   Microsoft Visio (32-Bit, 64-Bit)
+   Skype Kurumsal (32-Bit, 64-Bit)
+   ```
+***3 - Oyun ve Programlar***
    * Programlar: Bütün programlarımız reklamsız lisanslı ve profesyonel yazılımlardır.
-     ```
-     01 -) Sürücü yükleme ve güncelleme programları.
-     02 -) Sıkıştırma ve çıkartma programları.
-     03 -) Pdf okuma programları.
-     04 -) Format dönüştürme programları.
-     05 -) Müzik ve video indirme programları.
-     06 -) Müzik ve video oynatıcı programları.
-     07 -) Photoshop programları.
-     08 -) Torrent indirme ve yükleme programalrı.
-     09 -) Antivirüs ve USB koruma programları.
-     10 -) Bilgisayar temizleme ve hızlandırma progrmaları.
-     11 -) Sanal makina programları.
-     ```
+   ```
+   01 -) Sürücü yükleme ve güncelleme programları.
+   02 -) Sıkıştırma ve çıkartma programları.
+   03 -) Pdf okuma programları.
+   04 -) Format dönüştürme programları.
+   05 -) Müzik ve video indirme programları.
+   06 -) Müzik ve video oynatıcı programları.
+   07 -) Photoshop programları.
+   08 -) Torrent indirme ve yükleme programalrı.
+   09 -) Antivirüs ve USB koruma programları.
+   10 -) Bilgisayar temizleme ve hızlandırma progrmaları.
+   11 -) Sanal makina programları.
+   ```
    * Oyunlar:
-     ```
-     İstediğiniz bilgisayar oyunu için bizimle iletişim kurun. Oyunlar orijinal ve lisanslı şekilde kurulur.
-     ```
+   ```
+   İstediğiniz bilgisayar oyunu için bizimle iletişim kurun. Oyunlar orijinal ve lisanslı şekilde kurulur.
+   ```
 
 # Telefon
-1 - ***Format:***
+***1 - Format:***
    * Android:
-     ```
-     01 -) Format atma
-     02 -) Hard format atma
-     03 -) Yazılım sıfırlama
-     04 -) Yazılım yükleme
-     05 -) Root & Recovery yükleme
-     ```
+   ```
+   01 -) Format atma
+   02 -) Hard format atma
+   03 -) Yazılım sıfırlama
+   04 -) Yazılım yükleme
+   05 -) Root & Recovery yükleme
+   ```
 
 # Features
 
