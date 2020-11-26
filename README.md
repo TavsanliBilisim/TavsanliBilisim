@@ -106,11 +106,18 @@ The author of this project is not responsible for any possible harm caused by th
    ```
 ***3 - Sosyal Medya ve Hesap Güvenliği:***
    * Hesap Güvenliği: Sosyal medya ve hesaplarınız için güvenlik arttırma, güçlü parola oluşturma. (Hacklenmeme garantisi.)
-   * WhatsApp     * Instagram
-   * Facebook     * Twitter
-   
    ```
-   
+   01 -) Gmail
+   02 -) Hotmail
+   03 -) Telegram
+   04 -) WhatsApp
+   05 -) Facebook
+   06 -) Instagram
+   07 -) Tumblr
+   08 -) Twitter
+   09 -) Snapchat
+   10 -) Tiktok
+   11 -) Pubg Mobile
    ```
 ***4 - Silinen Verileri Kurtarma:***
    ```
