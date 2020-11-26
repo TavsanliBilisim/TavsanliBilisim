@@ -24,7 +24,9 @@
 The author of this project is not responsible for any possible harm caused by the materials of this project.***
 
 # Bilgisayar
-1 - Orijinal ve güncel Windows sürümleri ile bilgisayarınıza format atılır.
+1 - Format:
+    Orijinal ve güncel Windows sürümleri ile bilgisayarınıza format atılır.
+    Lisanslı ofis programları en güncel sürücüler profesyonel sürücü yazılımları ile yüklenir ve teslim edilir.
    * Windows 7:
      ```
      Windows 7 Starter (32-Bit)
@@ -38,6 +40,23 @@ The author of this project is not responsible for any possible harm caused by th
      Windows 10 Home (32-Bit, 64-Bit)
      Windows 10 Pro (32-Bit, 64-Bit)
      ```
+2 - Ofis programları:
+    Bilgisayarınızda olmayan, eksik olan veya lisans hatası veren ofis programları hatasız ve lisanslı bir şekilde kurulur.
+   * Microsoft Ofis
+   ```
+   Microsoft Word (32-Bit, 64-Bit)
+   Microsoft PowerPoint (32-Bit, 64-Bit)
+   Microsoft Excel (32-Bit, 64-Bit)
+   Microsoft Outlook (32-Bit, 64-Bit)
+   Microsoft OneNote (32-Bit, 64-Bit)
+   Microsoft Access (32-Bit, 64-Bit)
+   Microsoft Publisher (32-Bit, 64-Bit)
+   Microsoft OneDrive (32-Bit, 64-Bit)
+   Microsoft OneDrive İş (32-Bit, 64-Bit)
+   Microsoft Project (32-Bit, 64-Bit)
+   Microsoft Visio (32-Bit, 64-Bit)
+   Skype Kurumsal (32-Bit, 64-Bit)
+   ```
 
 # Features
 
