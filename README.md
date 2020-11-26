@@ -76,8 +76,20 @@ The author of this project is not responsible for any possible harm caused by th
    ```
    İstediğiniz bilgisayar oyunu için bizimle iletişim kurun. Oyunlar orijinal ve lisanslı şekilde kurulur.
    ```
+***4 - Modem Kurulumu ve Güvenliği:***
+```
+```
+***5 - HDD, SSD ve USB Onarımı:***
+```
+```
+***6 - Virüs Temizleme:***
+```
+```
+***7 - Silinen Verileri Kurtarma:***
+```
+```
 
-# Telefon
+# Telefon ve Tablet
 ***1 - Format:***
    * Android:
    ```
@@ -86,7 +98,26 @@ The author of this project is not responsible for any possible harm caused by th
    03 -) Yazılım sıfırlama
    04 -) Yazılım yükleme
    05 -) Root & Recovery yükleme
+   06 -) Android sürüm yükseltme
    ```
+***2 - Telefon ve Tablet Kurulumu:***
+   ```
+   Sizin için cihazınıza ait kişisel mail adresi oluşturma, yedekleme ve kişisel ayarlarını size uygun şekilde ayarlıyoruz.
+   ```
+***3 - Sosyal Medya ve Hesap Güvenliği:***
+   * Hesap Güvenliği: Sosyal medya ve hesaplarınız için güvenlik arttırma, güçlü parola oluşturma. (Hacklenmeme garantisi.)
+   ```
+   
+   ```
+***4 - Silinen Verileri Kurtarma:***
+   ```
+   ```
+***5 - Rehber, Resim, Video ve Dosya Yedekleme:***
+```
+```
+***6 - Oyunlar ve Programlar:***
+```
+```
 
 # Features
 
