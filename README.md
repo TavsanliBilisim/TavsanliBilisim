@@ -60,14 +60,14 @@ The author of this project is not responsible for any possible harm caused by th
 
 # Telefon
 1 - ***Format:***
-      * Android:
-        ```
-        1 -) Format atma
-        2 -) Hard format atma
-        3 -) Yazılım sıfırlama
-        4 -) Yazılım yükleme
-        5 -) Root & Recovery yükleme
-        ```
+   * Android:
+     ```
+     1 -) Format atma
+     2 -) Hard format atma
+     3 -) Yazılım sıfırlama
+     4 -) Yazılım yükleme
+     5 -) Root & Recovery yükleme
+     ```
 
 # Features
 
