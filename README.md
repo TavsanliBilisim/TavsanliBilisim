@@ -15,11 +15,6 @@
 - Bizimle iletişim kurun: **[@Atilla](https://t.me/LeeJunFan43) [@Oguzhan](https://t.me/Ghost_Man4307)**
 - Resmi sosyal medya hesaplarımız: [@Telegram](https://t.me/TavsanliBilisim) &bull; [@Instagram](https://instagram.com/TavsanliBilisim) &bull; [@Github](https://github.com/TavsanliBilisim)
 ----------
-- Hello World.
-- No system is ~secure~.
-- Open Source Enthusiast
-- The quieter you become, the more you are able to hear.
-
 > ***Warning: This project is created only for educational purposes and cannot be used for law violation or personal gain.
 The author of this project is not responsible for any possible harm caused by the materials of this project.***
 
@@ -138,38 +133,6 @@ The author of this project is not responsible for any possible harm caused by th
    ```
    
    ```
-
-# Features
-
-- [x] Development document.
-- [x] Created by TheDarkRoot.
-- [ ] Empty.
-- [x] Termux software:
-```swift
-https://github.com/TheDarkRoot/Terkey
-https://github.com/TheDarkRoot/Terpack
-https://github.com/TheDarkRoot/Hasher
-https://github.com/TheDarkRoot/Hashgen
-https://github.com/TheDarkRoot/UserID
-```
-- [x] Windows software:
-```swift
-https://github.com/TheDarkRoot/TDRainmeter
-https://github.com/TheDarkRoot/WinCleaning
-https://github.com/TheDarkRoot/WinFolderLock
-https://github.com/TheDarkRoot/ComSnake
-https://github.com/TheDarkRoot/Nesroms
-```
-
-# Installation
-
-> *Open the terminal and type following commands.*
-```swift
-$ pkg install git
-$ git clone https://github.com/TheDarkRoot/Project.git
-$ cd Project
-$ chmod +x *
-```
 
 # Screenshot
 
