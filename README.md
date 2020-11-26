@@ -57,6 +57,22 @@ The author of this project is not responsible for any possible harm caused by th
      Microsoft Visio (32-Bit, 64-Bit)
      Skype Kurumsal (32-Bit, 64-Bit)
      ```
+3 - ***Oyun ve Programlar***
+   * Programlar: Bütün programlarımız reklamsız lisanslı ve profesyonel yazılımlardır.
+     ```
+     1 -) Sürücü yükleme ve güncelleme programları.
+     Sıkıştırma ve çıkartma programları.
+     Pdf okuma programları.
+     Format dönüştürme programları.
+     Müzik ve video indirme programları.
+     Müzik ve video oynatıcı programları.
+     Photoshop programları.
+     Torrent indirme ve yükleme programalrı.
+     Antivirüs ve USB koruma programları.
+     Bilgisayar temizleme ve hızlandırma progrmaları.
+     Sanal makina programları.
+     ```
+
 
 # Telefon
 1 - ***Format:***
