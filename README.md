@@ -106,6 +106,9 @@ The author of this project is not responsible for any possible harm caused by th
    ```
 ***3 - Sosyal Medya ve Hesap Güvenliği:***
    * Hesap Güvenliği: Sosyal medya ve hesaplarınız için güvenlik arttırma, güçlü parola oluşturma. (Hacklenmeme garantisi.)
+   * WhatsApp     * Instagram
+   * Facebook     * Twitter
+   
    ```
    
    ```
