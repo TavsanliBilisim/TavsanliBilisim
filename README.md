@@ -138,7 +138,7 @@ The author of this project is not responsible for any possible harm caused by th
    
    # Modlu Uygulamalar:
 
-   * WhatsApp: [Özellikler](./WhatsApp.go)
+   * WhatsApp: [Özellikler](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/WhatsApp.go)
      
    * Oyunlar:
    ```
