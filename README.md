@@ -139,7 +139,7 @@ The author of this project is not responsible for any possible harm caused by th
    # Modlu Uygulamalar:
 
    * WhatsApp:
-     - Özellikler
+     - Özellikler [here](./Document.go)
    İsminizi ve durumuzu üst kısımda görün.
    Instagram modu ile durumları üst kısımda izleyin.
    WhatsApp'a yada kişiye özel sohbetlerinizi şifreleyin.
