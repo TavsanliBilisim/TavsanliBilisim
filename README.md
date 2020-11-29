@@ -160,7 +160,8 @@ The author of this project is not responsible for any possible harm caused by th
    Ara simgesi kazaları için "Sesli ara - Görüntülü ara -  Telefondan ara" seçenekleri ile yanlış tıklamalardan kurtulun ve istediğiniz kişiyi rehbere girmeden arayın.
    Çoklu mesaj kopyalamalarında tarih ve isim kopyalamayı kapatın.
    Ses kaydı ve ses dosyası oynattığınızda sensörden solayı ses azalmalarını kapatın.
-   Yazı tiplerini değiştirin, tema indirin, kendi temanızı yapın ve bunun gibi bir çok özellik için bize ulaşın.
+   Mesajlarda "devamını oku" özelliğini kapatma seçeneği ile mesajın tamamını görün.
+   Yazı tiplerini değiştirin, tema indirin, kendi temanızı yapın, koyu/açık mod bunun gibi bir çok özellik için bize ulaşın.
    ```
    * Oyunlar:
    ```
