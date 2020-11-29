@@ -104,9 +104,9 @@ The author of this project is not responsible for any possible harm caused by th
 ***1 - Format:***
    * Android:
    ```
-   01 -) Format atma                   04 -) Yazılım yükleme
-   02 -) Hard format atma              05 -) Root & Recovery yükleme
-   03 -) Yazılım sıfırlama             06 -) Android sürüm yükseltme   
+   01 -) Format atma                  04 -) Yazılım yükleme
+   02 -) Hard format atma             05 -) Root & Recovery yükleme
+   03 -) Yazılım sıfırlama            06 -) Android sürüm yükseltme   
    ```
 ***2 - Telefon ve Tablet Kurulumu:***
    ```
