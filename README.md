@@ -5,7 +5,7 @@
 <p align="center"><a href="center"><a href="https://t.me/TavsanliBilisim"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Telegram.png" width="30"></a>     <a href="center"><a href="https://instagram.com/TavsanliBilisim"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Instagram.png" width="30"></a>     <a href="center"><a href="https://github.com/TavsanliBilisim"><img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Github.png" width="30"></a></p>
 </p>
 <hr>
-<p align="center"><a href="#İletişim">İletişim</a> &bull; <a href="#Bilgisayar">Bilgisayar</a> &bull; <a href="#Telefon">Telefon</a> &bull; <a href="#Installation">Installation</a> &bull; <a href="#Screenshot">Screenshot</a> &bull; <a href="#Hakkımızda">Hakkımızda</a></p>
+<p align="center"><a href="#İletişim">İletişim</a> &bull; <a href="#Bilgisayar">Bilgisayar</a> &bull; <a href="#Telefon ve Tablet">Telefon ve Tablet</a> &bull; <a href="#Screenshot">Screenshot</a> &bull; <a href="#Hakkımızda">Hakkımızda</a>&bull; <a href="#Bağış ve Ödeme">Bağış ve Ödeme</a></p>
 <hr>
 
 
@@ -167,7 +167,7 @@ The author of this project is not responsible for any possible harm caused by th
    ```
    İstediğiniz android oyunu için bizimle iletişim kurun. Oyunlar lisanslı şekilde kurulur.
    ```
-
+   
 # Screenshot
 
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Crypte%20Type.gif" width=275>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Crypte%20Type.gif)
@@ -181,3 +181,5 @@ Full license text can be found [here](./Document.go)
 Warning: This project is created only for educational purposes and cannot be used for law violation or personal gain.
 The author of this project is not responsible for any possible harm caused by the materials of this project.
 ```
+
+# Bağış ve Ödeme
