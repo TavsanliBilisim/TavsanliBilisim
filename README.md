@@ -135,8 +135,8 @@ The author of this project is not responsible for any possible harm caused by th
    ```
 ***6 - Oyunlar ve Programlar:***
    * Programlar:
-   》Modlu Uygulamalar:
-   - WhatsApp: [Özellikler](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/WhatsApp.go)
+   > 》Modlu Uygulamalar:
+   WhatsApp: [Özellikler](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/WhatsApp.go)
      
    * Oyunlar:
    ```
