@@ -72,14 +72,30 @@ The author of this project is not responsible for any possible harm caused by th
    İstediğiniz bilgisayar oyunu için bizimle iletişim kurun. Oyunlar orijinal ve lisanslı şekilde kurulur.
    ```
 ***4 - Modem Kurulumu ve Güvenliği:***
-```
-```
+   ```
+   1 -) Modem kurulumu.
+   2 -) Modem arızaları.
+   3 -) Modem yavaşlamaları ve kasmaları.
+   4 -) Modem internet kesintileri.
+   5 -) Modem format atma.
+   6 -) Modem log kayıtları temizleme.
+   7 -) Modem misafir ağ oluşturma.
+   8 -) Modem maxiumu hız ve internet ayarları.
+   9 -) Modem ve Wi-Fi ağınız için güçlü şifre ve üst düzel güvenlik ayarları.
+   ```
 ***5 - HDD, SSD ve USB Onarımı:***
-```
-```
+   ```
+   1 -) Bellek sürücülerini güncelleme.
+   2 -) Boyutu düşük görünen belleklerinizi düzeltme.
+   3 -) Şifreli belleklerinizin şifresinin kırılması ve şifrelenmesi.
+   4 -) Belleklerinizin verilerini geri getirilemeyecek şekilde silme.
+   5 -) Çalışmayan belleklerinizi format atma ve kullanılabilir hale getirme.
+   6 -) Disk bölme ve birleştirme.
+   ```
 ***6 - Virüs Temizleme:***
-```
-```
+   ```
+   Bilgisayar, telefon, HDD, SSD ve USB belleklerinizdeki virüs probleminizi çözüyoruz.
+   ```
 ***7 - Silinen Verileri Kurtarma:***
    ```
    Bilgisayar, HDD, SSD ve USB belleğimizden silinen önemli resim, belge, video ve dökümanlarınızı geri getiriyoruz.
@@ -131,7 +147,7 @@ The author of this project is not responsible for any possible harm caused by th
    ```
    * Oyunlar:
    ```
-   
+   İstediğiniz android oyunu için bizimle iletişim kurun. Oyunlar lisanslı şekilde kurulur.
    ```
 
 # Screenshot
