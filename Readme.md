@@ -144,9 +144,9 @@
    
 # Screenshot
 
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Crypte%20Type.gif" width=275>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Crypte%20Type.gif)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Hack%20Screen.gif" width=275>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Hack%20Screen.gif)
-[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Cyber%20Map.gif" width=275>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/Gif/Cyber%20Map.gif)
+[<img src="https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Images/Banner.gif" width=275>](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Images/Banner.gif)
+[<img src="https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Images/Banner.gif" width=275>](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Images/Banner.gif)
+[<img src="https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Images/Banner.gif" width=275>](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Images/Banner.gif)
 
 # Hakkımızda
 
