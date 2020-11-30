@@ -15,8 +15,7 @@
 - Bizimle iletişim kurun: **[@Atilla](https://t.me/LeeJunFan43) [@Oguzhan](https://t.me/Ghost_Man4307)**
 - Resmi sosyal medya hesaplarımız: [@Telegram](https://t.me/TavsanliBilisim) &bull; [@Instagram](https://instagram.com/TavsanliBilisim) &bull; [@Github](https://github.com/TavsanliBilisim)
 ----------
-> ***Warning: This project is created only for educational purposes and cannot be used for law violation or personal gain.
-The author of this project is not responsible for any possible harm caused by the materials of this project.***
+> ***Mobil Bilgisayarcı olarak siz Bursa’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık..***
 
 # Bilgisayar
 ***1 - Format:***
