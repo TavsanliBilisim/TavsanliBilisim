@@ -153,17 +153,19 @@
 Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık.
 
 # Bağış ve Ödeme
-  * TRY
-  ```swift  IBAN Numarası: TR 4000 0100 0181 7699 4564 5001  ```  
-  * USD
+  * TRY IBAN Numarası:
   ```swift
-  IBAN Numarası: TR 8300 0100 0181 7699 4564 5003
-  ```
-  * EUR
+  TR 4000 0100 0181 7699 4564 5001
+  ```  
+  * USD IBAN Numarası:
   ```swift
-  IBAN Numarası: TR 5600 0100 0181 7699 4564 5004
+  TR 8300 0100 0181 7699 4564 5003
   ```
-  * BTC
+  * EUR IBAN Numarası:
+  ```swift
+  TR 5600 0100 0181 7699 4564 5004
+  ```
+  * BTC Cüzdan Numarası:
   ```swift
   
   ```
