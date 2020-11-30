@@ -153,18 +153,7 @@
 Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık.
 
 # Bağış ve Ödeme
-  * TRY
-  ```
-  IBAN Numarası: TR 4000 0100 0181 7699 4564 5001
-  ```
-  * USD
-  ```
-  IBAN Numarası: TR 8300 0100 0181 7699 4564 5003
-  ```
-  * EUR
-  ```
-  IBAN Numarası: TR 5600 0100 0181 7699 4564 5004
-  ```
-  * BTC
-  ```
-  ```
+  * TRY  ```IBAN Numarası: TR 4000 0100 0181 7699 4564 5001```
+  * USD  ```IBAN Numarası: TR 8300 0100 0181 7699 4564 5003```
+  * EUR  ```IBAN Numarası: TR 5600 0100 0181 7699 4564 5004```
+  * BTC  ``````
