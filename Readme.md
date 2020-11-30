@@ -135,7 +135,7 @@
 ***6 - Oyunlar ve Programlar:***
    * Programlar:
      * Modlu Uygulamalar:
-       * WhatsApp: [Özellikler](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/WhatsApp.go)
+       * WhatsApp: [Özellikler](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Documents/WhatsApp.go)
      
    * Oyunlar:
    ```
@@ -153,19 +153,19 @@
 Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık.
 
 # Bağış ve Ödeme
-  * TRY IBAN Numarası:
+  * **TRY** IBAN Numarası:
     ```swift
     TR 4000 0100 0181 7699 4564 5001
     ```  
-  * USD IBAN Numarası:
+  * **USD*** IBAN Numarası:
     ```swift
     TR 8300 0100 0181 7699 4564 5003
     ```
-  * EUR IBAN Numarası:
+  * **EUR** IBAN Numarası:
     ```swift
     TR 5600 0100 0181 7699 4564 5004
     ```
-  * BTC Cüzdan Numarası:
+  * **BTC** Cüzdan Numarası:
     ```swift
     
     ```
