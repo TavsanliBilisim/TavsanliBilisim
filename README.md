@@ -151,7 +151,7 @@ The author of this project is not responsible for any possible harm caused by th
 
 # Hakkımızda
 
-Full license text can be found [here](./Document.go)
+Mobil Bilgisayarcı olarak siz Tavşan’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık. [here](./Document.go)
 ```
 Warning: This project is created only for educational purposes and cannot be used for law violation or personal gain.
 The author of this project is not responsible for any possible harm caused by the materials of this project.
