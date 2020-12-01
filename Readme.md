@@ -156,7 +156,7 @@ Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sa
   * **Papara** Hesap Nunarası:
     ```swift
     1048163316
-    ```swift
+    ```
   * **TRY** IBAN Numarası:
     ```swift
     TR 4000 0100 0181 7699 4564 5001
