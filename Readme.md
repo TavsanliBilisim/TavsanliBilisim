@@ -155,22 +155,20 @@ Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sa
 # Bağış ve Ödeme
 
 * **Papara Hesap Numarası:**
-  * Atilla:
-    * ```1048163316```
-  * Oğuzhan:
-    * ```1193741476```
+  * Atilla: ```1048163316```
+  * Oğuzhan: ```1193741476```
 * **TRY IBAN Numarası:**
-  * Atilla:  ```TR 4000 0100 0181 7699 4564 5001```
+  * Atilla: ```TR 4000 0100 0181 7699 4564 5001```
   * Oğuzhan: ```TR77 0004 6015 0388 8000 0713 35```
 * **USD IBAN Numarası:**
-  * Atilla:  ```TR 8300 0100 0181 7699 4564 5003```
+  * Atilla: ```TR 8300 0100 0181 7699 4564 5003```
   * Oğuzhan: ```TR75 0004 6015 0300 1000 0896 95```
 * **EUR IBAN Numarası:**
-  * Atilla:  ```TR 5600 0100 0181 7699 4564 5004```
+  * Atilla: ```TR 5600 0100 0181 7699 4564 5004```
   * Oğuzhan: ```TR25 0004 6015 0303 6000 0896 96```
 * **BTC Yatırım Adresi:**
-  * Atilla:  ```39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN```
+  * Atilla: ```39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN```
   * Oğuzhan: ```1HF7sY1BUDDHbtZReDQYbq8efSQYW61xj4```
 * **ETH Yatırım Adresi:**
-  * Atilla:  ```0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24```
+  * Atilla: ```0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24```
   * Oğuzhan: ```0x29Ca631d8895175982bE25826C16c9E2Ced2bb36```
