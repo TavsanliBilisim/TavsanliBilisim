@@ -135,7 +135,7 @@
 ***6 - Oyunlar ve Programlar:***
    * Programlar:
      * Modlu Uygulamalar:
-       * WhatsApp: [Özellikler](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Documents/WhatsApp.go)
+       * WhatsApp: [Özellikler](https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Documents/WhatsApp)
      
    * Oyunlar:
    ```
