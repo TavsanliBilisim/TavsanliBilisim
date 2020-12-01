@@ -12,7 +12,7 @@
 # İletişim
 
 - ***💻 Home Ofis 🎭***
-- Bizimle iletişim kurun: **[@Atilla](https://t.me/LeeJunFan43) [@Oguzhan](https://t.me/Ghost_Man4307)**
+- Bizimle iletişim kurun: **[@Atilla](https://t.me/LeeJunFan43) [@Oğuzhan](https://t.me/Ghost_Man4307)**
 - Resmi sosyal medya hesaplarımız: [@Telegram](https://t.me/TavsanliBilisim) &bull; [@Instagram](https://instagram.com/TavsanliBilisim) &bull; [@Github](https://github.com/TavsanliBilisim)
 ----------
 > ***Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık..***
@@ -155,20 +155,22 @@ Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sa
 # Bağış ve Ödeme
 
 * **Papara Hesap Numarası:**
-  * Atilla:  ```1048163316```
-  * Oguzhan: ```1193741476```
+  * Atilla:
+    * ```1048163316```
+  * Oğuzhan:
+    * ```1193741476```
 * **TRY IBAN Numarası:**
   * Atilla:  ```TR 4000 0100 0181 7699 4564 5001```
-  * Oguzhan: ```TR77 0004 6015 0388 8000 0713 35```
+  * Oğuzhan: ```TR77 0004 6015 0388 8000 0713 35```
 * **USD IBAN Numarası:**
   * Atilla:  ```TR 8300 0100 0181 7699 4564 5003```
-  * Oguzhan: ```TR75 0004 6015 0300 1000 0896 95```
+  * Oğuzhan: ```TR75 0004 6015 0300 1000 0896 95```
 * **EUR IBAN Numarası:**
   * Atilla:  ```TR 5600 0100 0181 7699 4564 5004```
-  * Oguzhan: ```TR25 0004 6015 0303 6000 0896 96```
+  * Oğuzhan: ```TR25 0004 6015 0303 6000 0896 96```
 * **BTC Yatırım Adresi:**
   * Atilla:  ```39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN```
-  * Oguzhan: ```1HF7sY1BUDDHbtZReDQYbq8efSQYW61xj4```
+  * Oğuzhan: ```1HF7sY1BUDDHbtZReDQYbq8efSQYW61xj4```
 * **ETH Yatırım Adresi:**
   * Atilla:  ```0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24```
-  * Oguzhan: ```0x29Ca631d8895175982bE25826C16c9E2Ced2bb36```
+  * Oğuzhan: ```0x29Ca631d8895175982bE25826C16c9E2Ced2bb36```
