@@ -171,5 +171,31 @@ Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sa
     ```
   * **BTC** Cüzdan Numarası:
     ```swift
-    
+    39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN
     ```
+  * **ETH** Cüzdan Numarası:
+    ```swift
+    0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24
+    ```
+   * Ödeme:
+     * Papara:
+       * Atilla:  ```1048163316```
+       * Oguzhan: ``````
+     * TRY:
+       * Atilla:  ```TR 4000 0100 0181 7699 4564 5001```
+       * Oguzhan: ``````
+     * USD:
+       * Atilla:  ```TR 8300 0100 0181 7699 4564 5003```
+       * Oguzhan: ``````
+     * EUR:
+       * Atilla:  ```TR 5600 0100 0181 7699 4564 5004```
+       * Oguzhan: ``````
+     * BTC:
+       * Atilla:  ```39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN```
+       * Oguzhan: ``````
+     * ETH:
+       * Atilla:  ```0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24```
+       * Oguzhan: ``````
+     * :
+       * Atilla:  ``````
+       * Oguzhan: ``````
