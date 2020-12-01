@@ -153,11 +153,15 @@
 Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık.
 
 # Bağış ve Ödeme
+  * **Papara** Hesap Nunarası:
+    ```swift
+    1048163316
+    ```swift
   * **TRY** IBAN Numarası:
     ```swift
     TR 4000 0100 0181 7699 4564 5001
-    ```  
-  * **USD*** IBAN Numarası:
+    ```
+  * **USD** IBAN Numarası:
     ```swift
     TR 8300 0100 0181 7699 4564 5003
     ```
