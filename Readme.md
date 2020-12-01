@@ -178,22 +178,22 @@ Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sa
     0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24
     ```
    * Ödeme:
-     * Papara:
+     * **Papara Hesap Numarası:
        * Atilla:  ```1048163316```
        * Oguzhan: ``````
-     * TRY:
+     * TRY IBAN Numarası:
        * Atilla:  ```TR 4000 0100 0181 7699 4564 5001```
        * Oguzhan: ``````
-     * USD:
+     * **USD IBAN Numarası:**
        * Atilla:  ```TR 8300 0100 0181 7699 4564 5003```
        * Oguzhan: ``````
-     * EUR:
+     * **EUR IBAN Numarası:**
        * Atilla:  ```TR 5600 0100 0181 7699 4564 5004```
        * Oguzhan: ``````
-     * BTC:
+     * **BTC Yatırım Adresi:**
        * Atilla:  ```39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN```
        * Oguzhan: ``````
-     * ETH:
+     * **ETH Yatırım Adresi:**
        * Atilla:  ```0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24```
        * Oguzhan: ``````
      * :
