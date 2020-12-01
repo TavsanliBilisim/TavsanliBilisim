@@ -153,7 +153,7 @@
 Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık.
 
 # Bağış ve Ödeme
-  * **Papara** Hesap Nunarası:
+  * **Papara** Hesap Numarası:
     ```swift
     1048163316
     ```
