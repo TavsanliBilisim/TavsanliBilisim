@@ -153,49 +153,22 @@
 Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık.
 
 # Bağış ve Ödeme
-  * **Papara** Hesap Numarası:
-    ```swift
-    1048163316
-    ```
-  * **TRY** IBAN Numarası:
-    ```swift
-    TR 4000 0100 0181 7699 4564 5001
-    ```
-  * **USD** IBAN Numarası:
-    ```swift
-    TR 8300 0100 0181 7699 4564 5003
-    ```
-  * **EUR** IBAN Numarası:
-    ```swift
-    TR 5600 0100 0181 7699 4564 5004
-    ```
-  * **BTC** Cüzdan Numarası:
-    ```swift
-    39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN
-    ```
-  * **ETH** Cüzdan Numarası:
-    ```swift
-    0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24
-    ```
-   * Ödeme:
-     * **Papara Hesap Numarası:
-       * Atilla:  ```1048163316```
-       * Oguzhan: ``````
-     * TRY IBAN Numarası:
-       * Atilla:  ```TR 4000 0100 0181 7699 4564 5001```
-       * Oguzhan: ``````
-     * **USD IBAN Numarası:**
-       * Atilla:  ```TR 8300 0100 0181 7699 4564 5003```
-       * Oguzhan: ``````
-     * **EUR IBAN Numarası:**
-       * Atilla:  ```TR 5600 0100 0181 7699 4564 5004```
-       * Oguzhan: ``````
-     * **BTC Yatırım Adresi:**
-       * Atilla:  ```39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN```
-       * Oguzhan: ``````
-     * **ETH Yatırım Adresi:**
-       * Atilla:  ```0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24```
-       * Oguzhan: ``````
-     * :
-       * Atilla:  ``````
-       * Oguzhan: ``````
+
+* **Papara Hesap Numarası:**
+  * Atilla:  ```1048163316```
+  * Oguzhan: ```1193741476```
+* **TRY IBAN Numarası:**
+  * Atilla:  ```TR 4000 0100 0181 7699 4564 5001```
+  * Oguzhan: ```TR77 0004 6015 0388 8000 0713 35```
+* **USD IBAN Numarası:**
+  * Atilla:  ```TR 8300 0100 0181 7699 4564 5003```
+  * Oguzhan: ```TR75 0004 6015 0300 1000 0896 95```
+* **EUR IBAN Numarası:**
+  * Atilla:  ```TR 5600 0100 0181 7699 4564 5004```
+  * Oguzhan: ```TR25 0004 6015 0303 6000 0896 96```
+* **BTC Yatırım Adresi:**
+  * Atilla:  ```39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN```
+  * Oguzhan: ```1HF7sY1BUDDHbtZReDQYbq8efSQYW61xj4```
+* **ETH Yatırım Adresi:**
+  * Atilla:  ```0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24```
+  * Oguzhan: ```0x29Ca631d8895175982bE25826C16c9E2Ced2bb36```
