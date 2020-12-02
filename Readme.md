@@ -144,7 +144,7 @@
    
 # Screenshot
 
-[<img src="https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Images/Hacker%20Friend.gif" width=275>](https://instagram.com/TavsanliBilisim)
+[<img src="https://raw.githubusercontent.com/TavsanliBilisim/TavsanliBilisim/main/Images/Hacker%20Friend.gif" width=500>](https://instagram.com/TavsanliBilisim)
 
 # Hakkımızda
 
