@@ -103,9 +103,12 @@
 ***1 - Format:***
    * Android:
    ```
-   01 -) Format atma                  04 -) Yazılım yükleme
-   02 -) Hard format atma             05 -) Root & Recovery yükleme
-   03 -) Yazılım sıfırlama            06 -) Android sürüm yükseltme   
+   01 -) Format atma
+   02 -) Hard format atma
+   03 -) Yazılım sıfırlama
+   04 -) Yazılım yükleme
+   05 -) Root & Recovery yükleme
+   06 -) Android sürüm yükseltme
    ```
 ***2 - Telefon ve Tablet Kurulumu:***
    ```
@@ -115,13 +118,20 @@
    
    * Hesap Güvenliği: Sosyal medya ve hesaplarınız için güvenlik arttırma, güçlü parola oluşturma. > Hacklenmeme garantisi.
    ```
-   01 -) Gmail                        08 -) Tumblr
-   02 -) Hotmail                      09 -) Twitter
-   03 -) Telegram                     10 -) Snapchat
-   04 -) WhatsApp                     11 -) Netflix
-   05 -) Facebook                     12 -) Spotify
-   06 -) Instagram                    13 -) Tiktok
-   07 -) VK                           14 -) Pubg Mobile
+   01 -) Gmail
+   02 -) Hotmail
+   03 -) Telegram
+   04 -) WhatsApp
+   05 -) Facebook
+   06 -) Instagram
+   07 -) VK
+   08 -) Tumblr
+   09 -) Twitter
+   10 -) Snapchat
+   11 -) Netflix
+   12 -) Spotify
+   13 -) Tiktok
+   14 -) Pubg Mobile
    ```
 ***4 - Silinen Verileri Kurtarma:***
    ```
