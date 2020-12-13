@@ -15,7 +15,7 @@
 - Bizimle iletişim kurun: **[@Atilla](https://t.me/LeeJunFan43) [@Oğuzhan](https://t.me/Ghost_Man4307)**
 - Resmi sosyal medya hesaplarımız: [@Telegram](https://t.me/TavsanliBilisim) &bull; [@Instagram](https://instagram.com/TavsanliBilisim) &bull; [@Github](https://github.com/TavsanliBilisim)
 ----------
-> ***Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık..***
+> ***Tavşanlı Bilişim olarak siz Tavşanlı’lı kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle teknoloji sorunlarınızı gidermek için yola çıktık.***
 
 # Bilgisayar
 ***1 - Format:***
@@ -148,7 +148,7 @@
 
 # Hakkımızda
 
-Mobil Bilgisayarcı olarak siz Tavşanlı’lı bilgisayar kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle bilgisayar sorunlarınızı gidermek için yola çıktık.
+Tavşanlı Bilişim olarak siz Tavşanlı’lı kullanıcılarına sabit fiyat garantisi ile uzman ekibimizle teknoloji sorunlarınızı gidermek için yola çıktık.
 
 # Bağış ve Ödeme
 
