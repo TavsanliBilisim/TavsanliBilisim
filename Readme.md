@@ -175,8 +175,8 @@ Tavşanlı Bilişim olarak siz Tavşanlı’lı kullanıcılarına sabit fiyat g
   * Atilla: ```TR 5600 0100 0181 7699 4564 5004```
   * Oğuzhan: ```TR25 0004 6015 0303 6000 0896 96```
 * **BTC Yatırım Adresi:**
-  * Atilla: ```39QBXLcgMngagMQoqLj4XhSzZpRpQPXYTN```
+  * Atilla: ```13VST1nHtn7zETVuVHzwPqfmab6D14Piqb```
   * Oğuzhan: ```1HF7sY1BUDDHbtZReDQYbq8efSQYW61xj4```
 * **ETH Yatırım Adresi:**
-  * Atilla: ```0xE70856d99C60AEa6BDE759E2b759e6e8D15FBB24```
+  * Atilla: ```0x733c01f6cc5dd2564835ffcf1b127f2437391b91```
   * Oğuzhan: ```0x29Ca631d8895175982bE25826C16c9E2Ced2bb36```
